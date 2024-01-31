@@ -1,0 +1,14 @@
+#orderBtn{
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(2, 110, 243);
+    border-radius: 5px;
+    cursor: pointer;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    transition: background-color 0.25s;
+}
+
+#orderBtn:hover{
+    background-color:rgb(127, 176, 255);
+}
